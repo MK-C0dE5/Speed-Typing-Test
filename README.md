@@ -1,4 +1,4 @@
-## Speed Typing Test
-# Normal speed typing test on terminal
+# Speed Typing Test
+## Normal speed typing test on terminal
 
 Run script.py
